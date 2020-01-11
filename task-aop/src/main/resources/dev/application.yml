@@ -1,0 +1,21 @@
+spring:
+  dubbo: 
+    application:
+      name: aop-task
+#    base-package: com.molbase.psi.finance.provider  # dubbo服务发布者所在的包
+#    registry:
+#      address: 127.0.0.1:2181                  # zookeeper注册中心的地址
+#    protocol:
+#      name: dubbo
+#      port: 20901
+#      serialization: hessian2
+#    provider:
+#      retries: 0                           # 服务调用重试次数，服务发布者不给重试，让服务调用者自己重试
+
+server:
+  port: 9500
+  servlet:
+    context-path: /aop
+
+
+   
