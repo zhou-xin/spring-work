@@ -32,7 +32,7 @@
         <swagger-annotations.version>1.5.2</swagger-annotations.version>
         <xiaoymin-swagger-ui.version>1.9.3</xiaoymin-swagger-ui.version>
         <com.google.guava.version>23.0</com.google.guava.version>
-        <com.alibaba.fastjson.version>1.2.62</com.alibaba.fastjson.version>
+        <com.alibaba.fastjson.version>1.2.83</com.alibaba.fastjson.version>
         <!-- inner version start -->
     </properties>
 
